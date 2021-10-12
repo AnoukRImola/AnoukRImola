@@ -8,5 +8,8 @@
 
 ### Tech Stack ⚒️
 
+### Lenguages:
+https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge 
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 
 
