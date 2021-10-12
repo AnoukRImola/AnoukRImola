@@ -1,4 +1,4 @@
-# console.log("Hello World");
+# console.log("Hello World 👋");
 
 ## Hola!, mi nombre es Anouk Rímola desarrolladora Front End 👩‍💻
 
