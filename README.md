@@ -4,6 +4,7 @@
 
 * 🌱 Actualmente estoy profundizando React y aprendiendo bases de datos.
 * 📚 En constante aprendizaje.
+* 📬 anoukrimola@gmail.com
 
 
 ## Tech Stack ⚒️
