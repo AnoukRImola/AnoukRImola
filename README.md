@@ -1,6 +1,6 @@
 # console.log("Hello World 👋");
 
-## Hola! Mi nombre es Anouk Rímola Desarrolladora Front End 👩‍💻
+## Hola! Mi nombre es Anouk Rímola Desarrolladora Front End React 👩‍💻
 
 * 🌱 Actualmente estoy profundizando React y aprendiendo bases de datos.
 * 📚 En constante aprendizaje.
