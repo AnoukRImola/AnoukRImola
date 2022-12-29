@@ -1,9 +1,8 @@
 # console.log("Hello World 👋");
 
-## Hola! Mi nombre es Anouk Rímola Desarrolladora FullStack React 👩‍💻
+## Hi! I am Anouk Rímola, React Developer 👩‍💻
 
-* 🌱 Actualmente estoy profundizando React y aprendiendo bases de datos.
-* 📚 En constante aprendizaje.
+* 📚 Learning blockchain.
 * 📬 anoukrimola@gmail.com
 
 
