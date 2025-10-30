@@ -3,7 +3,7 @@
 ## Hi! I am Anouk Rímola, Software Engineer 👩‍💻
 
 * 📚 Web3 | AI | Cloud  
-* 📬 anoukrimola@gmail.com
+* 📬 anouk138@gmail.com
 
 
 ## Tech Stack ⚒️
