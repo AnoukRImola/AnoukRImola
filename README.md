@@ -1,4 +1,5 @@
-# print("Hello World 👋")
+# fn main() { println!("Hello, world!"); }
+
 
 ## Hi! I am Anouk Rímola, Software Engineer 👩‍💻
 
